@@ -1,4 +1,4 @@
-# Bias-Aware and An Explainable AI Framework for Automated Resume Screening System  
+# Bias-Aware and Explainable AI Framework for Automated Resume Screening System  
 
 ## 👨‍💻Team Details
 - **Project Title: Bias-Aware and An Explainable AI Framework for Automated Resume Screening System**
@@ -6,14 +6,17 @@
 
 **Member:** Aakash Jain (2210990008)
 
-
-
-**Supervisor: Dr. Shikha Tuteja**
+**Supervisor:** 
+- **Dr. Shikha Tuteja**  
+  Associate Professor, Department of Computer Science and Engineering  
+  Chitkara University, Punjab
 
 ## 📌Project Overview  
-This project presents a **Bias-Aware and Explainable AI framework** for automated resume screening. It leverages **Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)** to streamline the recruitment process while ensuring fairness and transparency.  
+This project presents a **Bias-Aware and Explainable AI framework** for automated resume screening. The system leverages **Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)** techniques to streamline the recruitment process while ensuring fairness, transparency, and efficiency.
 
-Traditional hiring systems often focus only on efficiency, ignoring issues like **algorithmic bias** and **lack of interpretability**. This system addresses these challenges by integrating **bias mitigation techniques** and **Explainable AI (XAI)** into the screening pipeline.  
+Traditional recruitment systems often focus only on automation and efficiency while ignoring critical issues such as **algorithmic bias** and **lack of interpretability**. The proposed framework addresses these challenges by integrating **bias mitigation techniques** and **Explainable AI (XAI)** into the resume screening pipeline.
+
+The system extracts relevant information such as skills, education, and work experience from resumes, evaluates candidate suitability using machine learning models, and provides explainable predictions to improve trust and accountability in hiring decisions.  
 
 ---
 
@@ -58,14 +61,20 @@ Traditional hiring systems often focus only on efficiency, ignoring issues like 
 ---
 
 ## 📊Results
-Accuracy: 86.5%
-Precision: 85.2%
-Recall: 84.1%
-F1 Score: 84.6%
+
+| Metric | Value |
+|---|---|
+| Accuracy | 86.5% |
+| Precision | 85.2% |
+| Recall | 84.1% |
+| F1-Score | 84.6% |
 
 ## 📉Bias Reduction
-Before mitigation: 0.31
-After mitigation: 0.14
+
+| Evaluation | Score |
+|---|---|
+| Before Mitigation | 0.31 |
+| After Mitigation | 0.14 |
 
 **Demonstrates improved fairness without compromising performance.**
 
@@ -82,6 +91,9 @@ After mitigation: 0.14
   1. Natural Language Processing (NLP)
   2. Machine Learning
   3. Explainable AI
+- **Development Environment**
+  1. Jupyter Notebook
+
 
  ---
 
@@ -90,20 +102,38 @@ After mitigation: 0.14
  ```
   Bias-Aware-Resume-Screening/
 │── Source Code/
-│── Report/
+│── Report and PPT/
 │   ├── Final_Report.pdf
 │   ├── Presentation.pptx
 │
 │── Documents/
 │   ├── Research_Paper.pdf
 │   ├── Plagiarism_Report.pdf
-│   ├── Submission_Screenshots/
+│   ├── AI_Report.pdf
 │
+│── IPR Submission Proof/
+│   ├── Screenshot1.png
+│   ├── Screenshot2.png
 │── README.md
 
 ```
 
 ---
+
+
+## 📌 Submission Status
+
+| Deliverable | Status |
+|---|---|
+| Research Paper | ✅ Submitted |
+| Final Report | ✅ Completed |
+| PPT Presentation | ✅ Completed |
+| Plagiarism Report | ✅ Attached |
+| GitHub Repository | ✅ Updated |
+| Research Paper Published | ✅ Completed |
+
+---
+
 
 
 ## ⚠️Limitations
@@ -122,8 +152,15 @@ After mitigation: 0.14
 
 ## 📜License
 
-This project is developed for academic purposes.
+This project is developed strictly for academic and research purposes.
 
 ## ⭐Acknowledgment
-Special thanks to **Dr. Shikha Tuteja** for guidance and support throughout the project.
+Special thanks to **Dr. Shikha Tuteja** for guidance and support and mentorship throughout the development of this research project.
 
+## 📚References
+
+1. Scikit-learn Documentation
+2. Research Papers on Explainable AI (XAI)
+3. NLP and Resume Screening Research Articles
+4. Fairness in Machine Learning Studies
+5. Python Official Documentation
